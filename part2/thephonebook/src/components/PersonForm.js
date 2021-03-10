@@ -1,4 +1,4 @@
-import react from 'react'
+
 const PersonForm = ({ addNewPerson, handleNameChange, handleNumberChange, newName, newNumber }) => {
     return (
         <div>
